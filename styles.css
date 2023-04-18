@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    color: white;
+    margin: 0;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+}
+
+.header1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header2 {
+    display: flex;
+    justify-content: center;
+}
+
+.header2-left {
+    margin-right: 50px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: white;
+}
+
